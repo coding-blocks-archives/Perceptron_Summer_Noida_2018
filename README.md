@@ -9,3 +9,14 @@
 - `class 07`: Principal Component Analysis
 - `class 08`: Linear Regression
 - `class 09`: Logistic Regression
+- `class 10`: Neural Networks with Numpy
+- `class 11`: Neural Nets with PyTroch
+- `class 12`: Convolutional Neural Networks
+- `class 13`: AutoEncoders and Dropout in NN
+- `class 14`: Markov Chains
+- `class 15`: Attention Mechanisms and RNN
+- `class 16`: Word2Vec algorithms and LSTM
+- `class 17`: Applications of LSTMs
+- `class 18`: Scraping and Genetic Algorithms
+- `class 19`: Deep Dream and Neural Art
+- `class 20`: ...
