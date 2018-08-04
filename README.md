@@ -19,6 +19,6 @@
 - `class 17`: Applications of LSTMs
 - `class 18`: Scraping and Genetic Algorithms
 - `class 19`: Deep Dream and Neural Art
-- `class 20`: ...
+- `class 20`: RCNN
 - `class 21`: RL
 - `class 22`: Naive Bayes and SVM
